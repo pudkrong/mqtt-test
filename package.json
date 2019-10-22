@@ -9,9 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "eureca.io": "^0.8.2",
     "faker": "^4.1.0",
+    "ioredis": "^4.14.1",
     "mongodb": "^3.3.2",
     "mosca": "^2.8.3",
-    "mqtt": "^3.0.0"
+    "mqtt": "^3.0.0",
+    "mqtt-json-rpc": "^1.1.0",
+    "redis-leader": "^0.1.0"
   }
 }

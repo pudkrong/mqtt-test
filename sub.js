@@ -2,13 +2,18 @@
 
 const topic = 'eko/mqtt/ios';
 // const host = 'mqtt://test.mosquitto.org';
-const host = 'mqtt://localhost';
+// const host = 'mqtt://localhost';
+const host = 'ws://localhost:8080';
+
 
 const mqtt = require('mqtt');
+
 const faker = require('faker');
 const client = mqtt.connect(host, {
   clientId: `subscriber${process.env.SUBSCRIBE || 1}`,
-  clean: false, // set to false to receive QoS 1 and 2 messages while offline
+  clean: false,
+  username: 'eko',
+  password: 'token'
 });
 
 const ready = new Promise((resolve, reject) => {
@@ -52,4 +57,7 @@ async function run() {
   });
 }
 
-run();
+run()
+  .catch(error => {
+    console.error(`PUD:: ==> `, error);
+  });

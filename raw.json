@@ -1,0 +1,2426 @@
+[
+  {
+    "group": {
+      "_id": "5da6e3375139d27974196803",
+      "type": "group_chatv2",
+      "uid": "5c050c4d775db606617b6452",
+      "settings": {
+        "isReadOnly": false,
+        "isAutoManagedMember": false,
+        "isAdminManaged": true,
+        "isCreatorManaged": true,
+        "isMemberManaged": true,
+        "isPrivate": false
+      },
+      "showEngagement": true,
+      "userCount": 4,
+      "lastActivity": "2019-10-16T09:35:51.615Z",
+      "name": "Alfred, Natalia, swag, Alfred",
+      "picture": "41b8a33392b040a7a2be282e5570dc54",
+      "notification": "all",
+      "users": [
+        {
+          "_id": "5d5a0c5552edb15014032dc0",
+          "firstname": "Alfred",
+          "lastname": "Bot",
+          "username": "alfredbot",
+          "avatar": "",
+          "isBot": true
+        },
+        {
+          "_id": "57ca930aae36d70100d1e3ed",
+          "firstname": "Alfred",
+          "lastname": "Bot",
+          "email": "alfred.bot@ekoapp.com",
+          "username": "alfred",
+          "avatar": "21e3a2bdc6104fec87412245060bdb30",
+          "isBot": true
+        },
+        {
+          "_id": "5c17384a41f3ce1be5860b85",
+          "firstname": "",
+          "lastname": "",
+          "email": "david+swag@ekoapp.com",
+          "username": "swag",
+          "avatar": "038cdc22433844398968ce428e78490a",
+          "isBot": false
+        },
+        {
+          "_id": "5c050c4d775db606617b6452",
+          "firstname": "Natalia",
+          "lastname": "Yurchenko",
+          "email": "natalia@ekoapp.com",
+          "username": "natalia",
+          "avatar": "6e9918cf07784032901eb9df1cfe7bbd",
+          "isBot": false
+        }
+      ],
+      "threads": [
+        {
+          "_id": "5da6e3375139d20493196804",
+          "readToSegment": -1,
+          "messageCount": 14,
+          "mentionSegments": [
+            1,
+            2,
+            5,
+            6,
+            8,
+            10,
+            12
+          ]
+        }
+      ],
+      "engagementPercent": 0.25
+    },
+    "lastThread": {
+      "_id": "5da6e3375139d20493196804",
+      "gid": "5da6e3375139d27974196803",
+      "name": "General Topic",
+      "type": "discussion",
+      "lastActivity": "2019-10-16T09:35:51.615Z"
+    },
+    "lastMessage": {
+      "_id": "5da6e4775139d2503c196833",
+      "type": "text",
+      "tid": "5da6e3375139d20493196804",
+      "data": "Hi, test reply from bot",
+      "created": "2019-10-16T09:35:51.615Z",
+      "threadSegment": 13,
+      "user": {
+        "_id": "57ca930aae36d70100d1e3ed",
+        "firstname": "Alfred",
+        "lastname": "Bot",
+        "username": "alfred",
+        "email": "alfred.bot@ekoapp.com"
+      }
+    }
+  },
+  {
+    "group": {
+      "_id": "5d371836c8453ba1c07a8b3e",
+      "type": "announcement",
+      "name": "Robert's Ramblings",
+      "uid": "563837e4bf64365e2121c97d",
+      "settings": {
+        "isReadOnly": false,
+        "isAutoManagedMember": false,
+        "isAdminManaged": false,
+        "isCreatorManaged": false,
+        "isMemberManaged": false,
+        "isPrivate": false
+      },
+      "showEngagement": false,
+      "userCount": 137,
+      "lastActivity": "2019-10-15T21:57:07.088Z",
+      "notification": "all",
+      "users": [
+        {
+          "_id": "581ff1a88b346c00010f9b0d",
+          "firstname": "Karina",
+          "lastname": "Kassimanova",
+          "email": "karina@ekoapp.com",
+          "username": "karina",
+          "avatar": "e2ee7f0ef99841c0a93da4bddda28b53",
+          "isBot": false
+        },
+        {
+          "_id": "51999c0b0d7735ab7c000005",
+          "firstname": "Korawad",
+          "lastname": "Chearavanont",
+          "email": "korawad@ekoapp.com",
+          "username": "korawad",
+          "avatar": "fb8d4a20210e4487bfa2c571de811abd",
+          "isBot": false
+        },
+        {
+          "_id": "529cb951f1112a172a002851",
+          "firstname": "Steven",
+          "lastname": "Grace",
+          "email": "steven@ekoapp.com",
+          "username": "steven",
+          "avatar": "ddf611894c1c437c8c98367f60a80277",
+          "isBot": false
+        },
+        {
+          "_id": "57392a9c8ace68e95963304e",
+          "firstname": "Rattiya (Ae)",
+          "lastname": "Th.",
+          "email": "rattiya@ekoapp.com",
+          "username": "rattiya@ekoapp.com",
+          "avatar": "bc60a4f6baca445e90bb6c69fdf8ddfa",
+          "isBot": false
+        },
+        {
+          "_id": "584796e7bb5a2e00016c16fb",
+          "firstname": "Beer",
+          "lastname": "Ratchadaporn",
+          "email": "ratchadaporn@ekoapp.com",
+          "username": "ratchadaporn@ekoapp.com",
+          "avatar": "04b689c8b160446bab6a74e331bdfee9",
+          "isBot": false
+        },
+        {
+          "_id": "5728175c7dc091401a37fe8b",
+          "firstname": "Pheerapoch (Beer)",
+          "lastname": " ",
+          "email": "pheerapoch@ekoapp.com",
+          "username": "pheerapoch",
+          "avatar": "c2153ae3c1ed4e2c971cb0414f0a8464",
+          "isBot": false
+        }
+      ],
+      "threads": [
+        {
+          "_id": "5d371836c8453b5ea47a8b3f",
+          "readToSegment": 36,
+          "messageCount": 46,
+          "mentionSegments": []
+        }
+      ],
+      "engagementPercent": 0
+    },
+    "lastThread": {
+      "_id": "5d371836c8453b5ea47a8b3f",
+      "gid": "5d371836c8453ba1c07a8b3e",
+      "name": "General Topic",
+      "type": "discussion",
+      "lastActivity": "2019-10-15T21:57:07.088Z"
+    },
+    "lastMessage": {
+      "_id": "5da640b3ba5d25528e4d4cf9",
+      "tid": "5d371836c8453b5ea47a8b3f",
+      "type": "text",
+      "data": "Finally, on a fun note in the UK, the Head Chef of Buckingham Palace has also requested to meet us in early November to discuss Eko being used internally there (this client introduction was done via one of our Food Service industry partners). No word yet if the Queen will be in attendance for the demo though…she'd probably end up wanting her own custom sticker pack to order people around!  (maybe that's just me though 😃)",
+      "created": "2019-10-15T21:57:07.088Z",
+      "threadSegment": 45,
+      "user": {
+        "_id": "563837e4bf64365e2121c97d",
+        "firstname": "Robert",
+        "lastname": "Darling",
+        "username": "robert@ekoapp.com",
+        "email": "robert@ekoapp.com"
+      }
+    }
+  },
+  {
+    "group": {
+      "_id": "5d89c30e24c6c88b3fc3a226",
+      "type": "announcement",
+      "name": "Eko Product",
+      "uid": "51990a150d7735ab7c000003",
+      "settings": {
+        "isReadOnly": false,
+        "isAutoManagedMember": false,
+        "isAdminManaged": false,
+        "isCreatorManaged": false,
+        "isMemberManaged": false,
+        "isPrivate": false
+      },
+      "showEngagement": false,
+      "userCount": 136,
+      "lastActivity": "2019-10-15T12:10:13.722Z",
+      "notification": "all",
+      "users": [
+        {
+          "_id": "5728175c7dc091401a37fe8b",
+          "firstname": "Pheerapoch (Beer)",
+          "lastname": " ",
+          "email": "pheerapoch@ekoapp.com",
+          "username": "pheerapoch",
+          "avatar": "c2153ae3c1ed4e2c971cb0414f0a8464",
+          "isBot": false
+        },
+        {
+          "_id": "51999c0b0d7735ab7c000005",
+          "firstname": "Korawad",
+          "lastname": "Chearavanont",
+          "email": "korawad@ekoapp.com",
+          "username": "korawad",
+          "avatar": "fb8d4a20210e4487bfa2c571de811abd",
+          "isBot": false
+        },
+        {
+          "_id": "51990a150d7735ab7c000003",
+          "firstname": "David",
+          "lastname": "Zhang",
+          "email": "david@ekoapp.com",
+          "username": "david",
+          "avatar": "9d7fa2983f0b4fee842a2fca95e0cc14",
+          "isBot": false
+        },
+        {
+          "_id": "5396d5b38080cf5d285dd440",
+          "firstname": "Decha",
+          "lastname": "Kanjanakultomrong",
+          "email": "decha@ekoapp.com",
+          "username": "decha",
+          "avatar": "78e3b0b2aed5410d89d8efdd0151e6b4",
+          "isBot": false
+        },
+        {
+          "_id": "563837e4bf64365e2121c97d",
+          "firstname": "Robert",
+          "lastname": "Darling",
+          "email": "robert@ekoapp.com",
+          "username": "robert@ekoapp.com",
+          "avatar": "520f9b3683b0472382b2a7243d1d0a24",
+          "isBot": false
+        },
+        {
+          "_id": "57392a9c8ace68e95963304e",
+          "firstname": "Rattiya (Ae)",
+          "lastname": "Th.",
+          "email": "rattiya@ekoapp.com",
+          "username": "rattiya@ekoapp.com",
+          "avatar": "bc60a4f6baca445e90bb6c69fdf8ddfa",
+          "isBot": false
+        }
+      ],
+      "threads": [
+        {
+          "_id": "5d89c30e24c6c86d02c3a227",
+          "readToSegment": -1,
+          "messageCount": 2,
+          "mentionSegments": []
+        }
+      ],
+      "engagementPercent": 0
+    },
+    "lastThread": {
+      "_id": "5d89c30e24c6c86d02c3a227",
+      "gid": "5d89c30e24c6c88b3fc3a226",
+      "name": "General Topic",
+      "type": "discussion",
+      "lastActivity": "2019-10-15T12:10:13.722Z"
+    },
+    "lastMessage": {
+      "_id": "5da5b725ba5d2573144d4cd9",
+      "tid": "5d89c30e24c6c86d02c3a227",
+      "type": "text",
+      "data": "Hi all 👋,\n\nWe just had a long 2.5 hr conversation with AirAsia’s Head of Brand & Culture, Attila, to talk about the AirAsia deployment. As you guys know, AirAsia launched last Friday, so this was our first official feedback session.\n\nSo far the response from employees on the ground has been overwhelmingly positive. In just 3 working days we now have 11,163 new Eko accounts, and AirAsia is now by far the largest deployment in Malaysia, increasing the activity in the region by 650%.\n\nThey LOVED the fact that our product is chat focused. One thing they are using frequently is sending Thumbs Up within the chat to commend their coworkers. This was something that their previous product, Facebook Workplace, does not do nearly as well, as the chat functionality of that product was not powerful enough in an enterprise setting. For a company as focused on culture as AirAsia, you can see why this is something their employees really enjoy using. Now they are thinking about tying in an employee reward program to our Thumbs Up.\n\nThe other feature that has gotten a significant amount of traction is Discover. Discover has always been designed as a way to help drive organic engagement with the company from the ground level, meaning that it is mainly driven by the employees instead of from the top down management team. AirAsia’s culture aligns with this vision very well, and their staff really enjoyed the ability to have meaningful conversation with the entire company via Discover’s posts and ranking system.\n\nLastly, the feature that ties everything together for this customer is Portal. Portal allows Eko to become a centralized source of truth for ALL enterprise products within a company. AirAsia has made Portal the official way to access every single piece of software that they use. This means every staff has to use Eko Portal to access other products like Facebook Workplace, Workday, Oracle, and any other piece of software they use internally. Everything is connected via Google SSO so the integration is seamless. Now, an employee only need to remember one piece of software, Eko, in order to work at AirAsia. This is really important for engagement as software fatigue is one of the biggest issues in enterprise right now, employees do not want to remember or use 10 different pieces of software for work, and having everything tied into Eko Portal elegantly solves this problem for their staff.\n\nCurrently there are 36 different apps setup on their Portal, but I expect the number to keep going up overtime as we include more of their employee base. \n\nAirAsia has now officially shut down their internal intranet website, it is now all redirected to Eko. This means all employee bookmarks and search engine results are all redirected to our product.\n\nOne last thing, all these engagement is from a simple all company broadcast and internal intranet redirect. There will be more official launch events coming up, where we will work with their team to help push the product to all their branch offices. \n\nWe are still on the tip of the iceberg in terms of potential engagement. As a company, AirAsia have ~25,000 staff, and sends 40,000 emails and 80,000 chat messages per day. I expect us to go beyond that if we execute everything right. Lots more excitement to come!",
+      "created": "2019-10-15T12:10:13.722Z",
+      "threadSegment": 1,
+      "user": {
+        "_id": "51990a150d7735ab7c000003",
+        "firstname": "David",
+        "lastname": "Zhang",
+        "username": "david",
+        "email": "david@ekoapp.com"
+      }
+    }
+  },
+  {
+    "group": {
+      "_id": "5c77b7d8c7175d77fb89cbcc",
+      "name": "Eko Global",
+      "type": "announcement",
+      "settings": {
+        "isReadOnly": false,
+        "isAutoManagedMember": false,
+        "isAdminManaged": false,
+        "isCreatorManaged": false,
+        "isMemberManaged": false,
+        "isPrivate": false
+      },
+      "showEngagement": false,
+      "userCount": 137,
+      "lastActivity": "2019-10-12T09:32:59.728Z",
+      "notification": "all",
+      "users": [
+        {
+          "_id": "565d2adfb4749b04382be92b",
+          "firstname": "Dasha",
+          "lastname": "Cherniavskaia",
+          "email": "dasha@ekoapp.com",
+          "username": "dasha@ekoapp.com",
+          "avatar": "91bce3e380bf4276b703dc2c592d3800",
+          "isBot": false
+        },
+        {
+          "_id": "529cb951f1112a172a002851",
+          "firstname": "Steven",
+          "lastname": "Grace",
+          "email": "steven@ekoapp.com",
+          "username": "steven",
+          "avatar": "ddf611894c1c437c8c98367f60a80277",
+          "isBot": false
+        },
+        {
+          "_id": "5396d5b38080cf5d285dd440",
+          "firstname": "Decha",
+          "lastname": "Kanjanakultomrong",
+          "email": "decha@ekoapp.com",
+          "username": "decha",
+          "avatar": "78e3b0b2aed5410d89d8efdd0151e6b4",
+          "isBot": false
+        },
+        {
+          "_id": "5728175c7dc091401a37fe8b",
+          "firstname": "Pheerapoch (Beer)",
+          "lastname": " ",
+          "email": "pheerapoch@ekoapp.com",
+          "username": "pheerapoch",
+          "avatar": "c2153ae3c1ed4e2c971cb0414f0a8464",
+          "isBot": false
+        },
+        {
+          "_id": "5754e84b9673687e6f8f5c7b",
+          "firstname": "Nutchaphon",
+          "lastname": "Rewik",
+          "email": "nutchaphon@ekoapp.com",
+          "username": "nutchaphon",
+          "avatar": "caef7b07cf6e4d6d8653be800b15a619",
+          "isBot": false
+        },
+        {
+          "_id": "57ca930aae36d70100d1e3ed",
+          "firstname": "Alfred",
+          "lastname": "Bot",
+          "email": "alfred.bot@ekoapp.com",
+          "username": "alfred",
+          "avatar": "21e3a2bdc6104fec87412245060bdb30",
+          "isBot": true
+        }
+      ],
+      "threads": [
+        {
+          "_id": "5c77b7d8c7175d192b89cbcd",
+          "readToSegment": 14,
+          "messageCount": 33,
+          "mentionSegments": []
+        }
+      ],
+      "engagementPercent": 0
+    },
+    "lastThread": {
+      "_id": "5c77b7d8c7175d192b89cbcd",
+      "gid": "5c77b7d8c7175d77fb89cbcc",
+      "name": "General Topic",
+      "type": "discussion",
+      "lastActivity": "2019-10-12T09:32:59.728Z"
+    },
+    "lastMessage": {
+      "_id": "5da19dcb0d763340bb4353ae",
+      "tid": "5c77b7d8c7175d192b89cbcd",
+      "type": "picture",
+      "data": "49fcc12cb4fc48e99c3d38d81a12866c",
+      "created": "2019-10-12T09:32:59.728Z",
+      "threadSegment": 32,
+      "user": {
+        "_id": "51999c0b0d7735ab7c000005",
+        "firstname": "Korawad",
+        "lastname": "Chearavanont",
+        "username": "korawad",
+        "email": "korawad@ekoapp.com"
+      }
+    }
+  },
+  {
+    "group": {
+      "_id": "5d79d8df22e7370c10749fcb",
+      "type": "direct_chatv2",
+      "uid": "5b7b89fc97e1252a422b3ca4",
+      "settings": {
+        "isReadOnly": false,
+        "isAutoManagedMember": false,
+        "isAdminManaged": false,
+        "isCreatorManaged": true,
+        "isMemberManaged": false,
+        "isPrivate": false
+      },
+      "showEngagement": false,
+      "userCount": 2,
+      "lastActivity": "2019-10-11T09:40:25.253Z",
+      "notification": "all",
+      "users": [
+        {
+          "_id": "5b7b89fc97e1252a422b3ca4",
+          "firstname": "Nakarin",
+          "lastname": "Jupattanakul",
+          "email": "nakarin@ekoapp.com",
+          "username": "nakarin",
+          "avatar": "dc4da49f7d0042788e11073a835e2ad9",
+          "isBot": false
+        },
+        {
+          "_id": "5c17384a41f3ce1be5860b85",
+          "firstname": "",
+          "lastname": "",
+          "email": "david+swag@ekoapp.com",
+          "username": "swag",
+          "avatar": "038cdc22433844398968ce428e78490a",
+          "isBot": false
+        }
+      ],
+      "threads": [
+        {
+          "_id": "5d7fb30de8f212687f0e609d",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5d7f7841e8f21246410e59ee",
+          "readToSegment": -1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5d7bc9592a6d612511048cb8",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5d79d8df22e737b5bc749fcc",
+          "readToSegment": 15,
+          "messageCount": 16,
+          "mentionSegments": []
+        }
+      ],
+      "engagementPercent": 0
+    },
+    "lastThread": {
+      "_id": "5d7f7841e8f21246410e59ee",
+      "uid": "5b7b89fc97e1252a422b3ca4",
+      "gid": "5d79d8df22e7370c10749fcb",
+      "name": "Topic",
+      "type": "text",
+      "lastActivity": "2019-09-16T11:56:06.487Z"
+    },
+    "lastMessage": {
+      "_id": "5d7f7830a8428a78bea0b8b2",
+      "type": "text",
+      "tid": "5d7f7841e8f21246410e59ee",
+      "data": "topic message 2",
+      "created": "2019-09-16T11:56:06.487Z",
+      "threadSegment": 1,
+      "user": {
+        "_id": "5b7b89fc97e1252a422b3ca4",
+        "firstname": "Nakarin",
+        "lastname": "Jupattanakul",
+        "username": "nakarin",
+        "email": "nakarin@ekoapp.com"
+      }
+    }
+  },
+  {
+    "group": {
+      "_id": "5c516a54d901e009c2cb6c4c",
+      "type": "direct_chatv2",
+      "uid": "56fdd3d4be7960723ceaead3",
+      "settings": {
+        "isReadOnly": false,
+        "isAutoManagedMember": false,
+        "isAdminManaged": false,
+        "isCreatorManaged": true,
+        "isMemberManaged": false,
+        "isPrivate": false
+      },
+      "showEngagement": false,
+      "userCount": 2,
+      "lastActivity": "2019-10-11T08:17:51.289Z",
+      "notification": "all",
+      "users": [
+        {
+          "_id": "56fdd3d4be7960723ceaead3",
+          "firstname": "Pan",
+          "lastname": "Intathep",
+          "email": "theptai@ekoapp.com",
+          "username": "theptai@ekoapp.com",
+          "avatar": "b07a0790a35f43a2a4ac61325b7f7960",
+          "isBot": false
+        },
+        {
+          "_id": "5c17384a41f3ce1be5860b85",
+          "firstname": "",
+          "lastname": "",
+          "email": "david+swag@ekoapp.com",
+          "username": "swag",
+          "avatar": "038cdc22433844398968ce428e78490a",
+          "isBot": false
+        }
+      ],
+      "threads": [
+        {
+          "_id": "5c516a54d901e0c707cb6c4d",
+          "readToSegment": 190,
+          "messageCount": 191,
+          "mentionSegments": []
+        }
+      ],
+      "engagementPercent": 0
+    },
+    "lastThread": {
+      "_id": "5c516a54d901e0c707cb6c4d",
+      "gid": "5c516a54d901e009c2cb6c4c",
+      "name": "General Topic",
+      "type": "discussion",
+      "lastActivity": "2019-10-11T08:17:51.289Z"
+    },
+    "lastMessage": {
+      "_id": "5da03aab22d4264be9494cb1",
+      "type": "picture",
+      "tid": "5c516a54d901e0c707cb6c4d",
+      "meta": {
+        "filename": "IMG_20191011_003805.jpg",
+        "exif": {
+          "DateTimeOriginal": "2019-10-11T00:38:05.000Z"
+        },
+        "gps": {
+          "lat": 13.7151,
+          "lng": 100.5948
+        },
+        "original": false
+      },
+      "data": "a94518f61ddb49c3b2664aa2eff4cad9",
+      "created": "2019-10-11T08:17:51.289Z",
+      "threadSegment": 190,
+      "user": {
+        "_id": "56fdd3d4be7960723ceaead3",
+        "firstname": "Pan",
+        "lastname": "Intathep",
+        "username": "theptai@ekoapp.com",
+        "email": "theptai@ekoapp.com"
+      }
+    }
+  },
+  {
+    "group": {
+      "_id": "5d240971df2a9df8d53d157e",
+      "type": "announcement",
+      "name": "Eko Engineering",
+      "uid": "59a3aad1cd7d07000107c757",
+      "settings": {
+        "isReadOnly": false,
+        "isAutoManagedMember": false,
+        "isAdminManaged": false,
+        "isCreatorManaged": false,
+        "isMemberManaged": false,
+        "isPrivate": false
+      },
+      "showEngagement": false,
+      "userCount": 137,
+      "lastActivity": "2019-10-11T04:57:04.905Z",
+      "notification": "all",
+      "users": [
+        {
+          "_id": "59f93964792f5d0001d5039f",
+          "firstname": "Pattawee (Din)",
+          "lastname": "Starnikom",
+          "email": "pattawee@ekoapp.com",
+          "username": "pattawee@ekoapp.com",
+          "avatar": "0388a62380484323b2891fda0d588013",
+          "isBot": false
+        },
+        {
+          "_id": "51990a150d7735ab7c000003",
+          "firstname": "David",
+          "lastname": "Zhang",
+          "email": "david@ekoapp.com",
+          "username": "david",
+          "avatar": "9d7fa2983f0b4fee842a2fca95e0cc14",
+          "isBot": false
+        },
+        {
+          "_id": "57392a9c8ace68e95963304e",
+          "firstname": "Rattiya (Ae)",
+          "lastname": "Th.",
+          "email": "rattiya@ekoapp.com",
+          "username": "rattiya@ekoapp.com",
+          "avatar": "bc60a4f6baca445e90bb6c69fdf8ddfa",
+          "isBot": false
+        },
+        {
+          "_id": "584796e7bb5a2e00016c16fb",
+          "firstname": "Beer",
+          "lastname": "Ratchadaporn",
+          "email": "ratchadaporn@ekoapp.com",
+          "username": "ratchadaporn@ekoapp.com",
+          "avatar": "04b689c8b160446bab6a74e331bdfee9",
+          "isBot": false
+        },
+        {
+          "_id": "5a811e3f574cca00011ce497",
+          "firstname": "Nuttapong",
+          "lastname": "admin",
+          "email": "",
+          "username": "nuttapong555",
+          "avatar": "f649e72850364ffc96444c14f22a1c27",
+          "isBot": false
+        },
+        {
+          "_id": "56fdd3d4be7960723ceaead3",
+          "firstname": "Pan",
+          "lastname": "Intathep",
+          "email": "theptai@ekoapp.com",
+          "username": "theptai@ekoapp.com",
+          "avatar": "b07a0790a35f43a2a4ac61325b7f7960",
+          "isBot": false
+        }
+      ],
+      "threads": [
+        {
+          "_id": "5d240971df2a9d4fd33d157f",
+          "readToSegment": 30,
+          "messageCount": 35,
+          "mentionSegments": []
+        }
+      ],
+      "engagementPercent": 0
+    },
+    "lastThread": {
+      "_id": "5d240971df2a9d4fd33d157f",
+      "gid": "5d240971df2a9df8d53d157e",
+      "name": "General Topic",
+      "type": "discussion",
+      "lastActivity": "2019-10-11T04:57:04.905Z"
+    },
+    "lastMessage": {
+      "_id": "5da00ba0ba5d25c86f4d4bc1",
+      "tid": "5d240971df2a9d4fd33d157f",
+      "type": "sticker",
+      "data": "590313a95040fe0001d9f810/5ae2e9d1eaf8ae22f5dbb3cb",
+      "created": "2019-10-11T04:57:04.905Z",
+      "threadSegment": 34,
+      "user": {
+        "_id": "59a3aad1cd7d07000107c757",
+        "firstname": "Lionel",
+        "lastname": "Chin",
+        "username": "lionelchin",
+        "email": "lionel@ekoapp.com"
+      }
+    }
+  },
+  {
+    "group": {
+      "_id": "5d9f09f00d76332596432f49",
+      "type": "direct_chatv2",
+      "uid": "5c17384a41f3ce1be5860b85",
+      "settings": {
+        "isReadOnly": false,
+        "isAutoManagedMember": false,
+        "isAdminManaged": false,
+        "isCreatorManaged": false,
+        "isMemberManaged": false,
+        "isPrivate": false
+      },
+      "showEngagement": false,
+      "userCount": 2,
+      "lastActivity": "2019-10-10T10:37:58.477Z",
+      "notification": "all",
+      "users": [
+        {
+          "_id": "5c17384a41f3ce1be5860b85",
+          "firstname": "",
+          "lastname": "",
+          "email": "david+swag@ekoapp.com",
+          "username": "swag",
+          "avatar": "038cdc22433844398968ce428e78490a",
+          "isBot": false
+        },
+        {
+          "_id": "5b35e629599050abc1ef2839",
+          "firstname": "Tanawat",
+          "lastname": "Uthaikitwanich",
+          "email": "tanawat@ekoapp.com",
+          "username": "tanawat@ekoapp.com",
+          "avatar": "34cc47dfaea149f1854b702a6f40897d",
+          "isBot": false
+        }
+      ],
+      "threads": [
+        {
+          "_id": "5d9f09f00d76333cc8432f4a",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        }
+      ],
+      "engagementPercent": 0
+    },
+    "lastThread": {
+      "_id": "5d9f09f00d76333cc8432f4a",
+      "gid": "5d9f09f00d76332596432f49",
+      "name": "General Topic",
+      "type": "discussion",
+      "lastActivity": "2019-10-10T10:37:58.477Z"
+    },
+    "lastMessage": {
+      "_id": "5d9f0a0313a69109e2000001",
+      "type": "picture",
+      "tid": "5d9f09f00d76333cc8432f4a",
+      "meta": {
+        "filename": "image.jpeg",
+        "exif": {
+          "DateTimeOriginal": "2019-10-10T17:37:00.000Z"
+        },
+        "original": false
+      },
+      "data": "a1d94970c26c4e0694bd6f281c9905dd",
+      "created": "2019-10-10T10:37:58.477Z",
+      "threadSegment": 1,
+      "user": {
+        "_id": "5c17384a41f3ce1be5860b85",
+        "firstname": "",
+        "lastname": "",
+        "username": "swag",
+        "email": "david+swag@ekoapp.com"
+      }
+    }
+  },
+  {
+    "group": {
+      "_id": "5d9ecdf10d76333d2f4323d0",
+      "type": "direct_chatv2",
+      "uid": "5d065dc1754cbff65b76f2fe",
+      "settings": {
+        "isReadOnly": false,
+        "isAutoManagedMember": false,
+        "isAdminManaged": false,
+        "isCreatorManaged": false,
+        "isMemberManaged": false,
+        "isPrivate": false
+      },
+      "showEngagement": false,
+      "userCount": 2,
+      "lastActivity": "2019-10-10T08:02:39.062Z",
+      "notification": "all",
+      "users": [
+        {
+          "_id": "5d065dc1754cbff65b76f2fe",
+          "firstname": "Awika (Pang)",
+          "lastname": "Kahatthar",
+          "email": "awika@ekoapp.com",
+          "username": "awika@ekoapp.com",
+          "avatar": "ef3b4b33ee7b44508a07be7cdb735788",
+          "isBot": false
+        },
+        {
+          "_id": "5c17384a41f3ce1be5860b85",
+          "firstname": "",
+          "lastname": "",
+          "email": "david+swag@ekoapp.com",
+          "username": "swag",
+          "avatar": "038cdc22433844398968ce428e78490a",
+          "isBot": false
+        }
+      ],
+      "threads": [
+        {
+          "_id": "5d9ecdf10d7633b0a44323d1",
+          "readToSegment": 54,
+          "messageCount": 55,
+          "mentionSegments": []
+        }
+      ],
+      "engagementPercent": 0
+    },
+    "lastThread": {
+      "_id": "5d9ecdf10d7633b0a44323d1",
+      "gid": "5d9ecdf10d76333d2f4323d0",
+      "name": "General Topic",
+      "type": "discussion",
+      "lastActivity": "2019-10-10T08:02:39.062Z"
+    },
+    "lastMessage": {
+      "_id": "5d9ee59f5139d2c3cf190ee6",
+      "type": "event",
+      "tid": "5d9ecdf10d7633b0a44323d1",
+      "meta": {
+        "localization": {
+          "key": "voip.cancel",
+          "params": []
+        }
+      },
+      "data": "Call canceled",
+      "created": "2019-10-10T08:02:39.062Z",
+      "threadSegment": 54,
+      "user": {
+        "_id": "5d065dc1754cbff65b76f2fe",
+        "firstname": "Awika (Pang)",
+        "lastname": "Kahatthar",
+        "username": "awika@ekoapp.com",
+        "email": "awika@ekoapp.com"
+      }
+    }
+  },
+  {
+    "group": {
+      "_id": "5d92cebd24c6c8e1d2c410d8",
+      "type": "direct_chatv2",
+      "uid": "5636e4e1bf64365e2121c928",
+      "settings": {
+        "isReadOnly": false,
+        "isAutoManagedMember": false,
+        "isAdminManaged": false,
+        "isCreatorManaged": true,
+        "isMemberManaged": false,
+        "isPrivate": false
+      },
+      "showEngagement": false,
+      "userCount": 2,
+      "lastActivity": "2019-10-01T03:58:09.547Z",
+      "notification": "all",
+      "users": [
+        {
+          "_id": "5636e4e1bf64365e2121c928",
+          "firstname": "Pud",
+          "lastname": "Pisut",
+          "email": "pisut@ekoapp.com",
+          "username": "pud",
+          "avatar": "487471b98dd94ef39352d989b12732bb",
+          "isBot": false
+        },
+        {
+          "_id": "5c17384a41f3ce1be5860b85",
+          "firstname": "",
+          "lastname": "",
+          "email": "david+swag@ekoapp.com",
+          "username": "swag",
+          "avatar": "038cdc22433844398968ce428e78490a",
+          "isBot": false
+        }
+      ],
+      "threads": [
+        {
+          "_id": "5d92cebd24c6c8d887c410d9",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        }
+      ],
+      "engagementPercent": 0
+    },
+    "lastThread": {
+      "_id": "5d92cebd24c6c8d887c410d9",
+      "gid": "5d92cebd24c6c8e1d2c410d8",
+      "name": "General Topic",
+      "type": "discussion",
+      "lastActivity": "2019-10-01T03:58:09.547Z"
+    },
+    "lastMessage": {
+      "_id": "5d92ced19ad42b9b3731452b",
+      "type": "text",
+      "tid": "5d92cebd24c6c8d887c410d9",
+      "data": "pppp",
+      "created": "2019-10-01T03:58:09.547Z",
+      "threadSegment": 1,
+      "user": {
+        "_id": "5636e4e1bf64365e2121c928",
+        "firstname": "Pud",
+        "lastname": "Pisut",
+        "username": "pud",
+        "email": "pisut@ekoapp.com"
+      }
+    }
+  },
+  {
+    "group": {
+      "_id": "5b6294eb97e125adac2b3359",
+      "name": "950 Hubbbbbbbbb",
+      "uid": "59ffeb89d6ed00000113c755",
+      "type": "unlock",
+      "settings": {
+        "isAutoManagedMember": false,
+        "isAdminManaged": false,
+        "isCreatorManaged": false,
+        "isMemberManaged": false,
+        "isPrivate": false
+      },
+      "showEngagement": false,
+      "userCount": 25,
+      "lastActivity": "2019-09-27T09:24:38.240Z",
+      "picture": "48d2c75c58104660b173deaa2d22c722",
+      "notification": "low",
+      "users": [
+        {
+          "_id": "529cb951f1112a172a002851",
+          "firstname": "Steven",
+          "lastname": "Grace",
+          "email": "steven@ekoapp.com",
+          "username": "steven",
+          "avatar": "ddf611894c1c437c8c98367f60a80277",
+          "isBot": false
+        },
+        {
+          "_id": "5a0d42fd66445e000180f7e3",
+          "firstname": "Michael",
+          "lastname": "Abadi",
+          "email": "michael@ekoapp.com",
+          "username": "michael@ekoapp.com",
+          "avatar": "c9726aff48224241832841411e6160dc",
+          "isBot": false
+        },
+        {
+          "_id": "581ff1a88b346c00010f9b0d",
+          "firstname": "Karina",
+          "lastname": "Kassimanova",
+          "email": "karina@ekoapp.com",
+          "username": "karina",
+          "avatar": "e2ee7f0ef99841c0a93da4bddda28b53",
+          "isBot": false
+        },
+        {
+          "_id": "57b2ae8485d068bb31a098e0",
+          "firstname": "Chanidapa(BO)",
+          "lastname": "Watkeav",
+          "email": "chanidapa@ekoapp.com",
+          "username": "chanidapa",
+          "avatar": "f1b96728aecc42b0b5989d3914209139",
+          "isBot": false
+        },
+        {
+          "_id": "57c3d86d8617fa010038ac8e",
+          "firstname": "Mariya",
+          "lastname": "Shipovskikh",
+          "email": "mariya@ekoapp.com",
+          "username": "mariya@ekoapp.com",
+          "avatar": "916ddcf59a074356b5eab2bc19730540",
+          "isBot": false
+        },
+        {
+          "_id": "5b4c65c4599050ee4def304c",
+          "firstname": "Nicole",
+          "lastname": "Brauner",
+          "email": "nicole@ekoapp.com",
+          "username": "nicole@ekoapp.com",
+          "avatar": "40ded1bfb9b94a67a2906ac787b61688",
+          "isBot": false
+        }
+      ],
+      "threads": [
+        {
+          "_id": "5cd4108d601c000ad3e67754",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5cd29df2050d0646f460cfe4",
+          "readToSegment": -1,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5c90571348df910c1200000b",
+          "readToSegment": -1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5c9056ef12ead10c12000003",
+          "readToSegment": -1,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5d8dd55624c6c81756c3e9d1",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5bf23c81a1886cfc5d9dade6",
+          "readToSegment": 2,
+          "messageCount": 3,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5c5d6428978f6e580f9dae2e",
+          "readToSegment": 7,
+          "messageCount": 8,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5c615185b13111061400000a",
+          "readToSegment": 1,
+          "messageCount": 3,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5c66694bfd966c33f953c50d",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5c499817f98351014a000004",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5cd14a09f1a8113e0800000b",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5ba4a9713ca2fa6c6bc78062",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5bf23d03a1886c72d49dae01",
+          "readToSegment": 2,
+          "messageCount": 3,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5b6294eb97e12599832b335a",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5c6e3f98e9bcfa2c21457ff4",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5c702c5917d4511320000010",
+          "readToSegment": -1,
+          "messageCount": 1,
+          "mentionSegments": []
+        }
+      ],
+      "engagementPercent": 0
+    },
+    "lastThread": {
+      "_id": "5cd29df2050d0646f460cfe4",
+      "uid": "5b72850997e1251eed2b397e",
+      "gid": "5b6294eb97e125adac2b3359",
+      "name": "Test",
+      "type": "unlock_question",
+      "lastActivity": "2019-05-09T09:36:33.474Z"
+    },
+    "lastMessage": {
+      "_id": "5cd3f49f22d425755699de41",
+      "type": "unlock",
+      "tid": "5cd29df2050d0646f460cfe4",
+      "data": "Testing",
+      "created": "2019-05-09T09:36:33.474Z",
+      "threadSegment": 0,
+      "user": {
+        "_id": "5b72850997e1251eed2b397e",
+        "firstname": "Piyush",
+        "lastname": "Verma",
+        "username": "piyush@ekoapp.com",
+        "email": "piyush@ekoapp.com"
+      }
+    }
+  },
+  {
+    "group": {
+      "_id": "5cd26edff8a668b00d80211b",
+      "type": "direct_chatv2",
+      "uid": "5699b7f55b8d9a8a617364de",
+      "settings": {
+        "isReadOnly": false,
+        "isAutoManagedMember": false,
+        "isAdminManaged": false,
+        "isCreatorManaged": false,
+        "isMemberManaged": false,
+        "isPrivate": false
+      },
+      "showEngagement": false,
+      "userCount": 2,
+      "lastActivity": "2019-09-25T05:31:03.870Z",
+      "notification": "all",
+      "users": [
+        {
+          "_id": "5699b7f55b8d9a8a617364de",
+          "firstname": "Janjira (Fon)",
+          "lastname": "Kanogmontien",
+          "email": "janjira@ekoapp.com",
+          "username": "janjira@ekoapp.com",
+          "avatar": "30eb4536bae3496187228db7ea866996",
+          "isBot": false
+        },
+        {
+          "_id": "5c17384a41f3ce1be5860b85",
+          "firstname": "",
+          "lastname": "",
+          "email": "david+swag@ekoapp.com",
+          "username": "swag",
+          "avatar": "038cdc22433844398968ce428e78490a",
+          "isBot": false
+        }
+      ],
+      "threads": [
+        {
+          "_id": "5cd2705ed8a5d274fc66bfb9",
+          "readToSegment": 32,
+          "messageCount": 33,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5cd26edff8a668fbd780211c",
+          "readToSegment": 221,
+          "messageCount": 222,
+          "mentionSegments": []
+        }
+      ],
+      "engagementPercent": 0
+    },
+    "lastThread": {
+      "_id": "5cd26edff8a668fbd780211c",
+      "gid": "5cd26edff8a668b00d80211b",
+      "name": "General Topic",
+      "type": "discussion",
+      "lastActivity": "2019-09-25T05:31:03.870Z"
+    },
+    "lastMessage": {
+      "_id": "5d8afb9609e102ea6b3126b2",
+      "tid": "5cd26edff8a668fbd780211c",
+      "type": "text",
+      "data": "zsrdfgjhklm;,.",
+      "created": "2019-09-25T05:31:03.870Z",
+      "threadSegment": 221,
+      "user": {
+        "_id": "5c17384a41f3ce1be5860b85",
+        "firstname": "",
+        "lastname": "",
+        "username": "swag",
+        "email": "david+swag@ekoapp.com"
+      }
+    }
+  },
+  {
+    "group": {
+      "_id": "5d8af20624c6c829a1c3b5a7",
+      "name": "uuuu",
+      "type": "group_chatv2",
+      "uid": "5d6bda677e2c4a7a41756ec7",
+      "settings": {
+        "isReadOnly": false,
+        "isAutoManagedMember": false,
+        "isAdminManaged": true,
+        "isCreatorManaged": true,
+        "isMemberManaged": true,
+        "isPrivate": false
+      },
+      "showEngagement": true,
+      "userCount": 1,
+      "lastActivity": "2019-09-25T04:55:13.231Z",
+      "picture": "4b79fd917e9e431f879be65084554432",
+      "notification": "all",
+      "users": [
+        {
+          "_id": "5c17384a41f3ce1be5860b85",
+          "firstname": "",
+          "lastname": "",
+          "email": "david+swag@ekoapp.com",
+          "username": "swag",
+          "avatar": "038cdc22433844398968ce428e78490a",
+          "isBot": false
+        }
+      ],
+      "threads": [
+        {
+          "_id": "5d8af20c24c6c877ffc3b5ac",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5d8af20624c6c81ae4c3b5a8",
+          "readToSegment": -1,
+          "messageCount": 4,
+          "mentionSegments": []
+        }
+      ],
+      "engagementPercent": 0
+    },
+    "lastThread": {
+      "_id": "5d8af20624c6c81ae4c3b5a8",
+      "gid": "5d8af20624c6c829a1c3b5a7",
+      "name": "General Topic",
+      "type": "discussion",
+      "lastActivity": "2019-09-25T04:55:13.231Z"
+    },
+    "lastMessage": {
+      "_id": "5d8af331d15c9b1ddf5652f2",
+      "type": "event",
+      "tid": "5d8af20624c6c81ae4c3b5a8",
+      "data": "Nutchaphon Rewik left this chat",
+      "created": "2019-09-25T04:55:13.231Z",
+      "threadSegment": 3,
+      "user": {
+        "_id": "5754e84b9673687e6f8f5c7b",
+        "firstname": "Nutchaphon",
+        "lastname": "Rewik",
+        "username": "nutchaphon",
+        "email": "nutchaphon@ekoapp.com"
+      }
+    }
+  },
+  {
+    "group": {
+      "_id": "5d8af1ff24c6c836a3c3b5a2",
+      "type": "group_chatv2",
+      "name": "uuuu",
+      "uid": "5d6bda677e2c4a7a41756ec7",
+      "settings": {
+        "isReadOnly": false,
+        "isAutoManagedMember": false,
+        "isAdminManaged": true,
+        "isCreatorManaged": true,
+        "isMemberManaged": true,
+        "isPrivate": false
+      },
+      "showEngagement": true,
+      "userCount": 3,
+      "lastActivity": "2019-09-25T04:50:07.837Z",
+      "notification": "all",
+      "users": [
+        {
+          "_id": "5d6bda677e2c4a7a41756ec7",
+          "firstname": "Warunyou (Boom)",
+          "lastname": "Dej-udom",
+          "email": "warunyou@ekoapp.com",
+          "username": "warunyou@ekoapp.com",
+          "avatar": "ab752f675cff4093899ea57699de05d0",
+          "isBot": false
+        },
+        {
+          "_id": "5c17384a41f3ce1be5860b85",
+          "firstname": "",
+          "lastname": "",
+          "email": "david+swag@ekoapp.com",
+          "username": "swag",
+          "avatar": "038cdc22433844398968ce428e78490a",
+          "isBot": false
+        },
+        {
+          "_id": "5754e84b9673687e6f8f5c7b",
+          "firstname": "Nutchaphon",
+          "lastname": "Rewik",
+          "email": "nutchaphon@ekoapp.com",
+          "username": "nutchaphon",
+          "avatar": "caef7b07cf6e4d6d8653be800b15a619",
+          "isBot": false
+        }
+      ],
+      "threads": [
+        {
+          "_id": "5d8af1ff24c6c8a4cdc3b5a3",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        }
+      ],
+      "engagementPercent": 0.3333333333333333
+    },
+    "lastThread": {
+      "_id": "5d8af1ff24c6c8a4cdc3b5a3",
+      "gid": "5d8af1ff24c6c836a3c3b5a2",
+      "name": "General Topic",
+      "lastActivity": "2019-09-25T04:50:07.837Z",
+      "type": "discussion"
+    },
+    "lastMessage": null
+  },
+  {
+    "group": {
+      "_id": "5c6d3443aad59149fe0abe70",
+      "type": "direct_chatv2",
+      "uid": "5c17384a41f3ce1be5860b85",
+      "settings": {
+        "isReadOnly": false,
+        "isAutoManagedMember": false,
+        "isAdminManaged": false,
+        "isCreatorManaged": false,
+        "isMemberManaged": false,
+        "isPrivate": false
+      },
+      "showEngagement": false,
+      "userCount": 2,
+      "lastActivity": "2019-09-23T08:04:59.859Z",
+      "notification": "all",
+      "users": [
+        {
+          "_id": "59f9386f792f5d0001d5039c",
+          "firstname": "Kiattirat (Fang)",
+          "lastname": "Sujjapongse",
+          "email": "keittirat@ekoapp.com",
+          "username": "keittirat@ekoapp.com",
+          "avatar": "705a634f2c6f40feb90129adaa8d6e21",
+          "isBot": false
+        },
+        {
+          "_id": "5c17384a41f3ce1be5860b85",
+          "firstname": "",
+          "lastname": "",
+          "email": "david+swag@ekoapp.com",
+          "username": "swag",
+          "avatar": "038cdc22433844398968ce428e78490a",
+          "isBot": false
+        }
+      ],
+      "threads": [
+        {
+          "_id": "5c6d3443aad591421c0abe71",
+          "readToSegment": 5,
+          "messageCount": 6,
+          "mentionSegments": []
+        }
+      ],
+      "engagementPercent": 0
+    },
+    "lastThread": {
+      "_id": "5c6d3443aad591421c0abe71",
+      "gid": "5c6d3443aad59149fe0abe70",
+      "name": "General Topic",
+      "type": "discussion",
+      "lastActivity": "2019-09-23T08:04:59.859Z"
+    },
+    "lastMessage": {
+      "_id": "5d887cabd15c9b2f37562817",
+      "type": "task",
+      "tid": "5c6d3443aad591421c0abe71",
+      "meta": {
+        "taskId": "5d887cabd15c9b38fc562815",
+        "action": "taskv2_create",
+        "taskTitle": "test2",
+        "dueDate": null
+      },
+      "data": "Swag McSwagger create this task to Kiattirat (Fang) Sujjapongse.",
+      "created": "2019-09-23T08:04:59.859Z",
+      "threadSegment": 5,
+      "user": {
+        "_id": "5c17384a41f3ce1be5860b85",
+        "firstname": "",
+        "lastname": "",
+        "username": "swag",
+        "email": "david+swag@ekoapp.com"
+      }
+    }
+  },
+  {
+    "group": {
+      "_id": "57e0c0eaae36d70100d1e4e1",
+      "name": "Test Hub",
+      "uid": "51a5e0b0705d40d71d000069",
+      "type": "unlock",
+      "showEngagement": false,
+      "userCount": 27,
+      "lastActivity": "2019-09-10T06:11:53.789Z",
+      "picture": "59ed19d01991404a892274bfc6746d2e",
+      "notification": "low",
+      "users": [
+        {
+          "_id": "59d1bfd4355d8400016fbf35",
+          "firstname": "Pornpawee (Mai)",
+          "lastname": "Assawataevin",
+          "email": "",
+          "username": "pornpawee",
+          "avatar": "64e81b51ebc24628a5b692fc3bcc0da9",
+          "isBot": false
+        },
+        {
+          "_id": "584796e7bb5a2e00016c16fb",
+          "firstname": "Beer",
+          "lastname": "Ratchadaporn",
+          "email": "ratchadaporn@ekoapp.com",
+          "username": "ratchadaporn@ekoapp.com",
+          "avatar": "04b689c8b160446bab6a74e331bdfee9",
+          "isBot": false
+        },
+        {
+          "_id": "57c3d86d8617fa010038ac8e",
+          "firstname": "Mariya",
+          "lastname": "Shipovskikh",
+          "email": "mariya@ekoapp.com",
+          "username": "mariya@ekoapp.com",
+          "avatar": "916ddcf59a074356b5eab2bc19730540",
+          "isBot": false
+        },
+        {
+          "_id": "56fb46667ac6fa201938d4f1",
+          "firstname": "Eakawat",
+          "lastname": "Tantamjarik",
+          "email": "eakawat@ekoapp.com",
+          "username": "eakawat@ekoapp.com",
+          "avatar": "aff3cfafef6142ee90cb3c14f930b595",
+          "isBot": false
+        },
+        {
+          "_id": "5754e84b9673687e6f8f5c7b",
+          "firstname": "Nutchaphon",
+          "lastname": "Rewik",
+          "email": "nutchaphon@ekoapp.com",
+          "username": "nutchaphon",
+          "avatar": "caef7b07cf6e4d6d8653be800b15a619",
+          "isBot": false
+        },
+        {
+          "_id": "57392a9c8ace68e95963304e",
+          "firstname": "Rattiya (Ae)",
+          "lastname": "Th.",
+          "email": "rattiya@ekoapp.com",
+          "username": "rattiya@ekoapp.com",
+          "avatar": "bc60a4f6baca445e90bb6c69fdf8ddfa",
+          "isBot": false
+        }
+      ],
+      "threads": [
+        {
+          "_id": "5d763633d211598708f25486",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5cd3d1ec7856516acb000004",
+          "readToSegment": -1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5cd3d1e06a6b916acb000003",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5cd26b7e7bae91e032000006",
+          "readToSegment": -1,
+          "messageCount": 3,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5c90ab948080ba7e6554ef64",
+          "readToSegment": -1,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e0c208484d21038a000010",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e0c3fb7317b1038a000018",
+          "readToSegment": 2,
+          "messageCount": 3,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e0cb76a79711036800000b",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e0c1f4e643caf39ab6e339",
+          "readToSegment": 2,
+          "messageCount": 3,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e1f7cac6205103a900000c",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e1f886e6b3d103a900001c",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e1fa3ee6433ca9f1b6204a",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e1f95c06dbd103a9000020",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e0c31fe643caf39ab6e33a",
+          "readToSegment": 2,
+          "messageCount": 3,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e2054085a061092d0000e6",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e200f4e6433ca9f1b6204f",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e20da60b1c210949000006",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e236ee559a5107290000e1",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e2374de21b6f3c9e2dde87",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e259e107791102aa000028",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e25c23c686d102aa00002e",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e3ce9de6339105e0000004",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e3cf2e863bd105e5000007",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e8db27e6cfe1091f000050",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e8dcd8f7e1d1091f00005f",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57ed2a12a7a81104680000af",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57f21fda86385119a5000032",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57f2244d716c41ae5a796d2c",
+          "readToSegment": 3,
+          "messageCount": 4,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5c90ab8184b3ff030fe4290d",
+          "readToSegment": -1,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57f4a646f1673907150001ac",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57f651afa79891391600000f",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57f736e7dba05761a314deac",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57f77e9d662b846322d11a43",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57f7853c662b846322d11a46",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58b698d046155103de000010",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58b69764d8bec9811642db1f",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e200dfe6433ca9f1b6204e",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "592692d887be11091b00001c",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e35a677c550d0b4f591826",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58b69929ed201a7a3db7e1da",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58b69936ed201a7a3db7e1de",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58b69967ed201a7a3db7e1e6",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58a55992ff8e2a0c5b636a18",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58d3485367485116b300005d",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5908547467369100cd000445",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58a559b2ff8e2a0c5b636a1c",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "591546f9c7cc5100fc000011",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57fdef7bac986e4c2315cae7",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58b696b9d8bec9811642db0e",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58b69953ed201a7a3db7e1e2",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "59ad34055e5c11000119f3b4",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58b6969c07155103de000006",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58a6b249f3db1c8350316eb6",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5923f553e7811101b200001d",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "591a855998a93f000157f6ce",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5b88964c1d93581d80be2855",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5936a2b526a2d100df000006",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5936a30727739100df000010",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57f736f7dba05761a314dead",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "582467584fec53e7f3fab07d",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57fcaa23a657510394000027",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5936a2e8c7dd9100df00000c",
+          "readToSegment": 3,
+          "messageCount": 4,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5a9637947668ea00019751b3",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57f76b83383da7fe21822419",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5ad565e3e64d55000106ce7d",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58b6973ad8bec9811642db1c",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58b6987086305103de00000c",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5c528ccc030591035100001b",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57fdefd5a9ae647fb04607ea",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "595db5f2a69c913d7a00000e",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58b696e3d8bec9811642db16",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58a6b3ebf3db414545b2e26a",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "59803e5ce730d10907000017",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "599a91b687abd10113000019",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5824645b4fec53e7f3fab07a",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "599eb7b9c6abd102e9000004",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58b6974f47b11103de00000b",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5abca910e64d5500010651e4",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "580042589c16c37e89cef843",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5ad6ca064c90e1013100000a",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5a8fcdc2277d11107f00000a",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58087160947cc9ecc432341b",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "580208eed9f1633cf656e4d7",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5ac1ffbee689910707000011",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58a5738fff8e3e30276bf44c",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58246b173e4d8101900000a1",
+          "readToSegment": 3,
+          "messageCount": 4,
+          "mentionSegments": []
+        },
+        {
+          "_id": "59ad21b0c72511031300000a",
+          "readToSegment": 5,
+          "messageCount": 6,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5af27e9524e80d750d00610a",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5a792df9c6be111c50000009",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58a6b22df3db1c8350316eaa",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5cb84446142f002e3273fef3",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5cb84433142f002e3273fef2",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "591ad50998a93f000157faf5",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5c30cdf30852d10178000021",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57fdf3b2a6a30100ff000006",
+          "readToSegment": 5,
+          "messageCount": 6,
+          "mentionSegments": []
+        },
+        {
+          "_id": "57e8e0e29e6f61091f000069",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5c625e2f2d113b7c82e3b3d9",
+          "readToSegment": 2,
+          "messageCount": 3,
+          "mentionSegments": []
+        },
+        {
+          "_id": "58b69972ed201a7a3db7e1ea",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5a7aa472e614d124e3000007",
+          "readToSegment": -1,
+          "messageCount": 0,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5948e03ba700110287000007",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        }
+      ],
+      "engagementPercent": 0
+    },
+    "lastThread": {
+      "_id": "5cd3d1ec7856516acb000004",
+      "uid": "5754e84b9673687e6f8f5c7b",
+      "gid": "57e0c0eaae36d70100d1e4e1",
+      "name": "T",
+      "type": "unlock_question",
+      "lastActivity": "2019-06-14T06:23:40.351Z"
+    },
+    "lastMessage": {
+      "_id": "5d033d6a54d43767c8772830",
+      "tid": "5cd3d1ec7856516acb000004",
+      "type": "unlock",
+      "data": "ываывав",
+      "created": "2019-06-14T06:23:40.351Z",
+      "threadSegment": 1,
+      "user": {
+        "_id": "5c050c4d775db606617b6452",
+        "firstname": "Natalia",
+        "lastname": "Yurchenko",
+        "username": "natalia",
+        "email": "natalia@ekoapp.com"
+      }
+    }
+  },
+  {
+    "group": {
+      "_id": "5d26841e2a18d42aaa494656",
+      "type": "group_chatv2",
+      "uid": "5c050c4d775db606617b6452",
+      "settings": {
+        "isReadOnly": false,
+        "isAutoManagedMember": false,
+        "isAdminManaged": true,
+        "isCreatorManaged": true,
+        "isMemberManaged": true,
+        "isPrivate": false
+      },
+      "showEngagement": true,
+      "userCount": 3,
+      "lastActivity": "2019-09-06T08:32:51.855Z",
+      "name": "Alfred, Natalia, ฯลฯ",
+      "picture": "622efa8038dd4628b225bdfed4183d2a",
+      "notification": "all",
+      "users": [
+        {
+          "_id": "5c050c4d775db606617b6452",
+          "firstname": "Natalia",
+          "lastname": "Yurchenko",
+          "email": "natalia@ekoapp.com",
+          "username": "natalia",
+          "avatar": "6e9918cf07784032901eb9df1cfe7bbd",
+          "isBot": false
+        },
+        {
+          "_id": "5c17384a41f3ce1be5860b85",
+          "firstname": "",
+          "lastname": "",
+          "email": "david+swag@ekoapp.com",
+          "username": "swag",
+          "avatar": "038cdc22433844398968ce428e78490a",
+          "isBot": false
+        },
+        {
+          "_id": "57ca930aae36d70100d1e3ed",
+          "firstname": "Alfred",
+          "lastname": "Bot",
+          "email": "alfred.bot@ekoapp.com",
+          "username": "alfred",
+          "avatar": "21e3a2bdc6104fec87412245060bdb30",
+          "isBot": true
+        }
+      ],
+      "threads": [
+        {
+          "_id": "5d26841e2a18d4b6fa494657",
+          "readToSegment": 9,
+          "messageCount": 10,
+          "mentionSegments": []
+        }
+      ],
+      "engagementPercent": 0
+    },
+    "lastThread": {
+      "_id": "5d26841e2a18d4b6fa494657",
+      "gid": "5d26841e2a18d42aaa494656",
+      "name": "General Topic",
+      "type": "discussion",
+      "lastActivity": "2019-09-06T08:32:51.855Z"
+    },
+    "lastMessage": {
+      "_id": "5d7219aeac10b93aa436e768",
+      "type": "picture",
+      "tid": "5d26841e2a18d4b6fa494657",
+      "meta": {
+        "filename": "IMAGE_1566901297813.jpg",
+        "original": false
+      },
+      "data": "054b69af01c143b8a50d5478ffb3ab8c",
+      "created": "2019-09-06T08:32:51.855Z",
+      "threadSegment": 9,
+      "user": {
+        "_id": "5c17384a41f3ce1be5860b85",
+        "firstname": "",
+        "lastname": "",
+        "username": "swag",
+        "email": "david+swag@ekoapp.com"
+      }
+    }
+  },
+  {
+    "group": {
+      "_id": "5c52adc1152e886cbcae8920",
+      "type": "direct_chatv2",
+      "uid": "5c050c4d775db606617b6452",
+      "settings": {
+        "isReadOnly": false,
+        "isAutoManagedMember": false,
+        "isAdminManaged": false,
+        "isCreatorManaged": false,
+        "isMemberManaged": false,
+        "isPrivate": false
+      },
+      "showEngagement": false,
+      "userCount": 2,
+      "lastActivity": "2019-08-27T08:13:43.343Z",
+      "notification": "all",
+      "users": [
+        {
+          "_id": "5c17384a41f3ce1be5860b85",
+          "firstname": "",
+          "lastname": "",
+          "email": "david+swag@ekoapp.com",
+          "username": "swag",
+          "avatar": "038cdc22433844398968ce428e78490a",
+          "isBot": false
+        },
+        {
+          "_id": "5c050c4d775db606617b6452",
+          "firstname": "Natalia",
+          "lastname": "Yurchenko",
+          "email": "natalia@ekoapp.com",
+          "username": "natalia",
+          "avatar": "6e9918cf07784032901eb9df1cfe7bbd",
+          "isBot": false
+        }
+      ],
+      "threads": [
+        {
+          "_id": "5c6fcf5fc5d594fbe587ad1f",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5c6fcf46c5d594fbe587ad15",
+          "readToSegment": 0,
+          "messageCount": 1,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5caee8d14f887873e49a8964",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5c52adc1152e88721fae8921",
+          "readToSegment": 424,
+          "messageCount": 425,
+          "mentionSegments": []
+        }
+      ],
+      "engagementPercent": 0
+    },
+    "lastThread": {
+      "_id": "5c52adc1152e88721fae8921",
+      "gid": "5c52adc1152e886cbcae8920",
+      "name": "General Topic",
+      "type": "discussion",
+      "lastActivity": "2019-08-27T08:13:43.343Z"
+    },
+    "lastMessage": {
+      "_id": "5d64e637c3519c865aeda4db",
+      "tid": "5c52adc1152e88721fae8921",
+      "type": "sticker",
+      "data": "590313a95040fe0001d9f810/5b890d3197e1256a722b48ff",
+      "created": "2019-08-27T08:13:43.343Z",
+      "threadSegment": 424,
+      "user": {
+        "_id": "5c050c4d775db606617b6452",
+        "firstname": "Natalia",
+        "lastname": "Yurchenko",
+        "username": "natalia",
+        "email": "natalia@ekoapp.com"
+      }
+    }
+  },
+  {
+    "group": {
+      "_id": "5c17384a6a9c8ebb13308a91",
+      "uid": "58afbe80b183b90001374fbf",
+      "name": "Welcome to Eko!",
+      "type": "group_chatv2",
+      "settings": {
+        "isAutoManagedMember": false,
+        "isAdminManaged": true,
+        "isCreatorManaged": true,
+        "isMemberManaged": false,
+        "isPrivate": false
+      },
+      "showEngagement": false,
+      "userCount": 2,
+      "lastActivity": "2019-08-27T05:05:53.504Z",
+      "picture": "35bcb685da5c4b86be2bb21a3cb1dd1f",
+      "notification": "all",
+      "users": [
+        {
+          "_id": "5c17384a41f3ce1be5860b85",
+          "firstname": "",
+          "lastname": "",
+          "email": "david+swag@ekoapp.com",
+          "username": "swag",
+          "avatar": "038cdc22433844398968ce428e78490a",
+          "isBot": false
+        },
+        {
+          "_id": "58afbe80b183b90001374fbf",
+          "firstname": "Tutorial",
+          "lastname": "Support",
+          "email": "tutorial@ekoapp.com",
+          "username": "tutorial",
+          "isBot": false
+        }
+      ],
+      "threads": [
+        {
+          "_id": "5c17384b6a9c8e35ea308a9d",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5c17384b6a9c8e302b308a97",
+          "readToSegment": 1,
+          "messageCount": 2,
+          "mentionSegments": []
+        },
+        {
+          "_id": "5c17384a6a9c8e2100308a92",
+          "readToSegment": 3,
+          "messageCount": 4,
+          "mentionSegments": []
+        }
+      ],
+      "engagementPercent": 0
+    },
+    "lastThread": {
+      "_id": "5c17384a6a9c8e2100308a92",
+      "gid": "5c17384a6a9c8ebb13308a91",
+      "name": "General Topic",
+      "type": "discussion",
+      "lastActivity": "2019-08-27T05:05:53.504Z"
+    },
+    "lastMessage": {
+      "_id": "5d64ba30e37618862a0bd9a2",
+      "tid": "5c17384a6a9c8e2100308a92",
+      "type": "text",
+      "data": "f",
+      "created": "2019-08-27T05:05:53.504Z",
+      "threadSegment": 3,
+      "user": {
+        "_id": "5c17384a41f3ce1be5860b85",
+        "firstname": "",
+        "lastname": "",
+        "username": "swag",
+        "email": "david+swag@ekoapp.com"
+      }
+    }
+  },
+  {
+    "group": {
+      "_id": "5d4836830a394350a6842abb",
+      "type": "group_chatv2",
+      "name": "test",
+      "uid": "5a2126e0973611000181aa6a",
+      "settings": {
+        "isReadOnly": false,
+        "isAutoManagedMember": false,
+        "isAdminManaged": true,
+        "isCreatorManaged": true,
+        "isMemberManaged": true,
+        "isPrivate": false
+      },
+      "showEngagement": true,
+      "userCount": 2,
+      "lastActivity": "2019-08-25T11:15:56.109Z",
+      "picture": "1e743d15adab44e492b4fb3bb1b73dae",
+      "notification": "all",
+      "users": [
+        {
+          "_id": "5a2126e0973611000181aa6a",
+          "firstname": "Jacek",
+          "lastname": "Kozal",
+          "email": "jacek@ekoapp.com",
+          "username": "jacek@ekoapp.com",
+          "avatar": "15972b1126c448958a891f7d23f930be",
+          "isBot": false
+        },
+        {
+          "_id": "5c17384a41f3ce1be5860b85",
+          "firstname": "",
+          "lastname": "",
+          "email": "david+swag@ekoapp.com",
+          "username": "swag",
+          "avatar": "038cdc22433844398968ce428e78490a",
+          "isBot": false
+        }
+      ],
+      "threads": [
+        {
+          "_id": "5d4836830a39435612842abc",
+          "readToSegment": 4,
+          "messageCount": 5,
+          "mentionSegments": []
+        }
+      ],
+      "engagementPercent": 0
+    },
+    "lastThread": {
+      "_id": "5d4836830a39435612842abc",
+      "gid": "5d4836830a394350a6842abb",
+      "name": "General Topic",
+      "type": "discussion",
+      "lastActivity": "2019-08-25T11:15:56.109Z"
+    },
+    "lastMessage": {
+      "_id": "5d626ddf875cc9f2f87507fe",
+      "type": "text",
+      "tid": "5d4836830a39435612842abc",
+      "data": "o",
+      "created": "2019-08-25T11:15:56.109Z",
+      "threadSegment": 4,
+      "user": {
+        "_id": "5c17384a41f3ce1be5860b85",
+        "firstname": "",
+        "lastname": "",
+        "username": "swag",
+        "email": "david+swag@ekoapp.com"
+      }
+    }
+  }
+]
